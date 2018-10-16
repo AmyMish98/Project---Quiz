@@ -26,6 +26,6 @@ if (x[2].checked == true) {
      score=score+5; 
 }
 
-alert("Your score is: " + score + "Out of 25");
+alert("Your score (Out of 25) is: " + score);
 window.location.reload();
 }
