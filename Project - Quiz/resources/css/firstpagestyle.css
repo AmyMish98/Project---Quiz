@@ -1,0 +1,18 @@
+body{
+background-color:#ff4500;
+}
+
+.heading{
+margin-top: 250px;
+text-align:center;
+color: white;
+}
+
+#button{
+padding:15px;
+background-color:white;
+border-radius:100px;
+color:#ff4500;
+font-size:150%;
+text-decoration:none;
+}
